@@ -25,7 +25,7 @@
   <a href="https://github.com/abhishek39980">
     <img src="https://img.shields.io/badge/Portfolio-00F59B?style=for-the-badge&logo=react&logoColor=0B0F19&labelColor=0B0F19" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/abhisheksoni">
+  <a href="https://www.linkedin.com/in/abhishek-soni-043212279/">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B0F19&labelColor=0B0F19" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhisheksoniofficial07@gmail.com">
@@ -299,7 +299,7 @@ current_focus:
 ### `> connect --init`
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhisheksoni">
+  <a href="https://www.linkedin.com/in/abhishek-soni-043212279/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B0F19&labelColor=0B0F19" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhisheksoniofficial07@gmail.com">
