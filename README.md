@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER (CAPSULE-RENDER SOFT TYPE, MY ACCENT COLOR) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=00F59B&height=220&section=header&text=ABHISHEK%20SONI&fontSize=46&fontColor=0B0F19&animation=twinkle&fontAlignY=42&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full-Stack%20%26%20Machine%20Learning&descAlignY=68&descAlign=50" width="100%" alt="Abhishek Soni Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00F59B&height=220&section=header&text=ABHISHEK%20SONI&fontSize=46&fontColor=0B0F19&animation=twinkle&fontAlignY=42&desc=AI%20and%20Backend%20Engineer%20%7C%20Full-Stack%20and%20Machine%20Learning&descAlignY=68&descAlign=50" width="100%" alt="Abhishek Soni Banner"/>
 
 <br/>
 
@@ -245,7 +245,10 @@ OPEN_TO=("Backend Engineering Roles" "AI/ML Software Roles" "Full-Stack Opportun
 ### `> github-trophies --show`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek39980&theme=flat&no-frame=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/Trophy-100K%2B_Synthetic_GenAI_Images-00F59B?style=for-the-badge&logo=google&logoColor=0B0F19&labelColor=0B0F19" alt="Trophy 1"/>
+  <img src="https://img.shields.io/badge/Trophy-OSINT_Helix_Architect-00E5FF?style=for-the-badge&logo=radar&logoColor=0B0F19&labelColor=0B0F19" alt="Trophy 2"/>
+  <img src="https://img.shields.io/badge/Trophy-Acorn_AST_Interpreter-00F59B?style=for-the-badge&logo=javascript&logoColor=0B0F19&labelColor=0B0F19" alt="Trophy 3"/>
+  <img src="https://img.shields.io/badge/Trophy-FAISS_Offline_RAG-00E5FF?style=for-the-badge&logo=sqlite&logoColor=0B0F19&labelColor=0B0F19" alt="Trophy 4"/>
 </div>
 
 <hr/>
