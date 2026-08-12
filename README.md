@@ -214,7 +214,7 @@ OPEN_TO=("Backend Engineering Roles" "AI/ML Software Roles" "Full-Stack Opportun
 ### `> coding-platforms --profiles`
 
 <p align="center">
-  <a href="https://leetcode.com">
+  <a href="https://leetcode.com/u/abhishek39980/">
     <img src="https://img.shields.io/badge/LeetCode-abhishek39980-00F59B?style=for-the-badge&logo=leetcode&logoColor=0B0F19&labelColor=0B0F19" alt="LeetCode"/>
   </a>
   <a href="https://hackerrank.com">
